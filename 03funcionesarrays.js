@@ -4,7 +4,7 @@ let alumnos = [
     {nombre: 'María', apellidos: 'Zuil', puntuacion: 4.6, apto: null},
     {nombre: 'Juan', apellidos: 'Gómez', puntuacion: 7, apto: null},
     {nombre: 'Laura', apellidos: 'López', puntuacion: 3.6, apto: null},
-    {nombre: 'Carlos', apellidos: 'Pérez', puntuacion: 6.7, apto: null}, 
+    {nombre: 'Carlos', apellidos: 'Pérez', puntuacion: 6.7, apto: null},
 ]
 
 // Método forEach

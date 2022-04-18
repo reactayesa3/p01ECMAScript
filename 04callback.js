@@ -40,6 +40,6 @@ cuentaAtras(5, (err, seg) => {
     if (err) {
         console.error(err);
     } else {
-        console.log('Quedan ' + seg + ' segundos')
+        console.log('Quedan ' + seg + ' segundos');
     }
 });
